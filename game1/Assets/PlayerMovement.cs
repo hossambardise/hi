@@ -10,9 +10,9 @@ public class PlayerMovement : MonoBehaviour
 	void Update()
 	{
 		float horizontal = Input.GetAxis("Horizontal") * movementSpeed * Time.deltaTime;
-		transform.Translate(horizontal, 0,0 );
+		transform.Translate(0, 0, horizontal);
 		float vertical = Input.GetAxis("Vertical") * movementSpeed * Time.deltaTime;
-		transform.Translate(0, 0, vertical);
+		transform.Translate(-vertical, 0,0 );
 
 
 	}
