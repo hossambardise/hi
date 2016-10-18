@@ -6,23 +6,19 @@ Direct3D:
     Vendor:   Intel
     VRAM:     1117 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.679 seconds
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Bardise\Documents\game1\startmenu_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bardise\Desktop\a\hi\game1\startmenu_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.918028 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 173c -> priority: 1 
