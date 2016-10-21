@@ -17,7 +17,11 @@ public class PlayerHealth : MonoBehaviour {
 
     Animator anim;        
                                          
+<<<<<<< HEAD
    // AudioSource playerAudio;                                   
+=======
+    AudioSource playerAudio;                                   
+>>>>>>> origin/master
     PlayerMovement playerMovement;
     playerAttack playerattack;                 
     bool isDead;                                               
@@ -27,7 +31,11 @@ public class PlayerHealth : MonoBehaviour {
     void Start () {
         playerattack = GetComponent<playerAttack>();
         playerMovement = GetComponent<PlayerMovement>();
+<<<<<<< HEAD
        // playerAudio = GetComponent<AudioSource>();
+=======
+        playerAudio = GetComponent<AudioSource>();
+>>>>>>> origin/master
         anim = GetComponent<Animator>();
         currentHealth = startingHealth;
     }
@@ -49,7 +57,11 @@ public class PlayerHealth : MonoBehaviour {
     {
         damaged = true;
         currentHealth -= amount;
+<<<<<<< HEAD
         //Debug.LogError(isDead+"   "+currentHealth);
+=======
+        Debug.LogError(isDead+"   "+currentHealth);
+>>>>>>> origin/master
         healthSlider.value = currentHealth;
        // playerAudio.Play();
         if (currentHealth <= 0 && !isDead)

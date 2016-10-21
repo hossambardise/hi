@@ -64,8 +64,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\EnemyAttack.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\EnemyHealth.cs" />
     <Compile Include="Assets\Enemymanger.cs" />
+=======
+>>>>>>> origin/master
     <Compile Include="Assets\Enemymove.cs" />
     <Compile Include="Assets\FirstPersonCamera.cs" />
     <Compile Include="Assets\GameOverManager.cs" />
@@ -75,9 +78,13 @@
     <Compile Include="Assets\StartManger.cs" />
     <Compile Include="Assets\chase.cs" />
     <Compile Include="Assets\playerAttack.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\swordattack.cs" />
     <Compile Include="Assets\video\ExampleClass.cs" />
     <Compile Include="Assets\win.cs" />
+=======
+    <Compile Include="Assets\video\ExampleClass.cs" />
+>>>>>>> origin/master
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
